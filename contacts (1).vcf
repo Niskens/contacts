@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Joseph;Marie;;;
+FN:Marie Joseph
+ORG:Bureau XYZ
+TITLE:Direction
+TEL;TYPE=WORK,VOICE:+509 3000 0000
+EMAIL;TYPE=WORK:direction@bureau.ht
+CATEGORIES:Bureau XYZ
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Pierre;Jean;;;
+FN:Jean Pierre
+ORG:Bureau XYZ
+TITLE:Ressources Humaines
+TEL;TYPE=WORK,VOICE:+509 3000 0001
+EMAIL;TYPE=WORK:rh@bureau.ht
+CATEGORIES:Bureau XYZ
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Sécurité;Accueil /;;;
+FN:Accueil / Sécurité
+ORG:Bureau XYZ
+TITLE:Réception
+TEL;TYPE=WORK,VOICE:+509 3000 0002
+CATEGORIES:Bureau XYZ
+END:VCARD
